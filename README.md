@@ -6,4 +6,4 @@ Classification models used were logistic regression (experiment 1), support vect
 
 The experiement 0 notebook contains a preliminary EDA, data cleaning steps, feature engineering and a null model for comparison with later models. 
 
-Grade recieved = 90% (HD) 
+Grade recieved: 90% (HD) 
